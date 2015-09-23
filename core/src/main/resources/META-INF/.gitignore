@@ -1,0 +1,6 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+# This file was added as a placeholder so we can have empty directories.
+# Might be useful to remove in the future if there are real files in this directory.
